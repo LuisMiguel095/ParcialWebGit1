@@ -1,0 +1,22 @@
+.espacio {
+	margin-top: 10%;
+}
+.br {
+	margin-top: 5px;
+	margin-bottom:  5px;
+}
+body {
+
+	background-image:url('../img/law.jpg');
+	background-size: 100%;
+	
+}
+.mx-titulo {
+	color:#fff;
+	font-size: 20px;
+}
+ footer{
+ 	background-color:#454545;
+ 	color: black;
+ 	font-size:15px;
+ }
